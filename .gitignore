@@ -1,0 +1,17 @@
+
+\.idea/
+
+APDescription\.txt
+
+MTPs-Main-Container\.txt
+
+*.iml
+
+target
+nbactions\.xml
+
+C:/
+
+*.ser
+
+.DS_Store
