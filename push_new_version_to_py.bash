@@ -2,7 +2,7 @@
 set -e
 MLAF_DIR=/Users/Auke/Documents/School/1718/MSDA/mlaf-java/
 CASESTUDY_DIR=/Users/Auke/Documents/School/1718/MSDA/casestudy/
-TARGET=pi@192.168.8.117:/home/pi/
+TARGET=pi@10.0.0.215:/home/pi/
 
 cd $MLAF_DIR
 mvn install
